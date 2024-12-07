@@ -27,7 +27,11 @@ To run this project, you need to have the following installed:
    ```
    cd frontend
    ```
-3. Install dependencies:
+3. Create .env file in the root of the directory
+   ```
+   VITE_URL=[backend-url]
+   ```
+4. Install dependencies:
    ```
    npm install
    ```
