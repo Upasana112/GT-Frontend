@@ -7,8 +7,8 @@ This is the frontend application for the Game theory project, a scheduling syste
 
 
 ## Deployed Applications
-- Frontend: [https://skedular-gt-frontend.vercel.app/](https://gt-frontend-ogo5.onrender.com)
-- Backend: [https://skedulargt.onrender.com/](https://gt-backend-q1j5.onrender.com)
+- Frontend: https://gt-frontend-ogo5.onrender.com
+- Backend: https://gt-backend-q1j5.onrender.com
 
 ## Images
 
